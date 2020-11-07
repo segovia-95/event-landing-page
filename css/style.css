@@ -2,6 +2,13 @@ body {
     margin: 10;
     padding: 10;
   }
+
+  .jumbotron {
+    height: 600px;
+    background: url("../img/alyson-mcphee-yWG-ndhxvqY-unsplash.jpg") center center no-repeat;
+    background-size: cover;
+  }
+
   .wrapper {
     background-color: lightblue;
     padding: 2rem 4rem;
