@@ -9,3 +9,17 @@ body {
     background-size: cover;
     color:white 
   }
+
+.border .border-primary .border-secondary .border-success {
+  width: 100%
+}
+
+.container {
+  width: 100;
+}
+
+.container-fluid {
+  background-color: whitesmoke;
+  box-sizing: border-box;
+}
+}
