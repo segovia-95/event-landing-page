@@ -4,10 +4,8 @@ body {
   }
 
   .jumbotron {
-    height: 600px;
-    background: url("../img/alyson-mcphee-yWG-ndhxvqY-unsplash.jpg") center center no-repeat;
+    background-image: url("../img/alyson-mcphee-yWG-ndhxvqY-unsplash.jpg");
     background-size: cover;
-    color:white 
   }
 
 .container {
