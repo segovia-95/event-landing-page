@@ -6,6 +6,8 @@ body {
   .jumbotron {
     background-image: url("../img/alyson-mcphee-yWG-ndhxvqY-unsplash.jpg");
     background-size: cover;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
 
 .container {
